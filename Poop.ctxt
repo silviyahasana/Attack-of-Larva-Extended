@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Poop
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Poop\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=p
+comment1.target=Poop(boolean)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ collisionCheck()
+comment4.params=
+comment4.target=void\ runAnimation()
+comment5.params=
+comment5.target=void\ movePoop()
+comment6.params=
+comment6.target=void\ startPoop()
+comment7.params=
+comment7.target=void\ collectPoop()
+comment8.params=
+comment8.target=boolean\ isPosessed()
+numComments=9

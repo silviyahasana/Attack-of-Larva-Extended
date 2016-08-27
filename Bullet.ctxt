@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Bullet
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Bullet\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Bullet()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ getBulletVector()
+comment4.params=larva\ r\ x\ y
+comment4.target=void\ startBullet(Larva,\ Raflesia,\ int,\ int)
+comment5.params=
+comment5.target=void\ getMC()
+numComments=6
