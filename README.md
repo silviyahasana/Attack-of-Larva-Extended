@@ -1,9 +1,9 @@
-Smart-Zombie
+Attack Of Larva Extended
 ============
-A game about a smart zombie!
 
-Greenfoot Game for CPE 378
+THIS PROJECT BASED ON JAVA AND CREATED USING GREENFOOT.
+You need to install Greenfoot to open this project.
 
-Authors: Kevin Weber, Olin Olmstead, Bennett Schalich
+This is similar to Super Mario. It has several stage(world) and you need to finish a stage before reach into next stage
 
-WARNING: Code is not guaranteed to be clean
+Author : Silviya Hasana
