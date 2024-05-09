@@ -1,12 +1,19 @@
 Attack Of Larva Extended
 ============
 
-THIS PROJECT BASED ON JAVA AND CREATED USING GREENFOOT.
+![plot](./images/title.jpeg)
 
+------------------------------------------------------------------------
+THIS PROJECT BASED ON JAVA AND CREATED USING GREENFOOT.
 You need to install Greenfoot to open this project.
 
-This is similar to Super Mario. 
+It's similar to brick breaker game, you need to catch the sausages. 
 
-It has several stage(world) and you need to finish a stage before reach into next stage
+PROJECT TITLE     : ATTACK OF LARVA
+PURPOSE OF PROJECT: FUN AND DEVELOPMENT
+VERSION           : 1.1
+AUTHORS           : SILVIYA HASANA
 
-Author : Silviya Hasana
+WARNING: Code is not guaranteed to be clean
+
+------------------------------------------------------------------------
