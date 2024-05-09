@@ -1,12 +1,8 @@
-Attack Of Larva Extended
-============
-
 ![plot](./images/title.jpeg)
 
 ------------------------------------------------------------------------
-THIS PROJECT BASED ON JAVA AND CREATED USING GREENFOOT.
-You need to install Greenfoot to open this project.
-
+ATATCK OF LARVA EXTENDED
+This project is build based on Java using Greenfoot engine. You need to install Greenfoot to open this project.
 It's similar to brick breaker game, you need to catch the sausages. 
 
 PROJECT TITLE     : ATTACK OF LARVA
@@ -17,3 +13,4 @@ AUTHORS           : SILVIYA HASANA
 WARNING: Code is not guaranteed to be clean
 
 ------------------------------------------------------------------------
+
